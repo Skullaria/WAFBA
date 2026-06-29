@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use WAFBA, please cite it as below."
+title: "WAFBA — Wiresplice AI Functional Behavioral Assessment"
+abstract: >-
+  A structured instrument for evaluating the functional behavior of AI systems
+  during real-world work. Built on the clinical Functional Behavioral Assessment
+  model, WAFBA evaluates the complete working system — model, execution
+  configuration, harness, and task context — rather than a model in isolation.
+type: software
+authors:
+  - family-names: Gilleland
+    given-names: Kristi
+    affiliation: "Wiresplice Studio"
+version: "1.0.0"
+date-released: "2026-06-29"
+license: CC-BY-SA-4.0
+keywords:
+  - AI evaluation
+  - functional behavioral assessment
+  - agent behavior
+  - AI governance
+  - model evaluation
+  - clinical informatics
+# Once archived on Zenodo, add the minted DOI here:
+# doi: 10.5281/zenodo.XXXXXXX

@@ -1,7 +1,15 @@
 # WAFBA
 
-**Wiresplice AI Functional Behavioral Assessment**
+**Wiresplice aAI Functional Behavioral Assessment**
 Version 1.0 · Released 2026-06-29
+
+[
+
+![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21093977.svg)
+
+](https://doi.org/10.5281/zenodo.21093977)
+
+WAFBA evaluates agentic AI (aAI) — a model operating within a live system, with tool access, memory, and autonomy — not the isolated model in isolation. Standard benchmarks assess the latter; WAFBA was built because failures like config corruption and unrequested credential consolidation only surface in the former.
 
 A structured instrument for evaluating the *functional behavior* of AI systems
 during real-world work.
@@ -103,8 +111,7 @@ instrument return to the commons. See [`LICENSE`](LICENSE).
 ## Citation
 
 If you use WAFBA in research or practice, please cite it. See
-[`CITATION.cff`](CITATION.cff). A versioned DOI is minted per release via Zenodo
-(add the badge once the first release is archived).
+[`CITATION.cff`](CITATION.cff).
 
 ---
 
